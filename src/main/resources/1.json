@@ -1,0 +1,129 @@
+{
+  "beEvaluatedObjectShows": [
+    {
+      "sceneCode": "XSYBJ",
+      "shows": [
+        {
+          "templateCode": "TP2020102614100013",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "富力城",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "60473305",
+          "houseSourceCode": "1115031760173",
+          "roomId": ""
+        },
+        {
+          "templateCode": "TP2020102615570018",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "沿海赛洛城",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "320002713",
+          "houseSourceCode": "1115032158693",
+          "roomId": ""
+        },
+        {
+          "templateCode": "TP2020102615520017",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "林奥嘉园",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "320002802",
+          "houseSourceCode": "1115097029016",
+          "roomId": ""
+        },
+        {
+          "templateCode": "TP2020102615580021",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "朝庭公寓",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "3",
+          "houseSourceCode": "BJZRGZ2120551877",
+          "roomId": "3"
+        },
+        {
+          "templateCode": "TP2020102616410030",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "融泽嘉园",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "60475693",
+          "houseSourceCode": "1115095351471",
+          "roomId": "3"
+        },
+        {
+          "templateCode": "TP2020102616360028",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "丰汇园",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "60475155",
+          "houseSourceCode": "1115031347658",
+          "roomId": ""
+        },
+        {
+          "templateCode": "TP2020102617080032",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "番南小区",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "3",
+          "houseSourceCode": "SHXH99473515",
+          "roomId": "3"
+        },
+        {
+          "templateCode": "TP2020102617110035",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "逸流公寓",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "3",
+          "houseSourceCode": "SHZRGZ2120551775",
+          "roomId": "3"
+        },
+        {
+          "templateCode": "TP2020122118220005",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "阳光海景豪苑",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "3",
+          "houseSourceCode": "SZZRGZ29202005806",
+          "roomId": "3"
+        },
+        {
+          "templateCode": "TP2021020713590014",
+          "picUrl": "http://pic.ziroom.com.cn/house_images/g2m3/M00/A5/A1/ChAZVF4ZTdiAIw_zADFmWe_KRvg571.jpg",
+          "title": "心舍样板间",
+          "subTitle": "朝阳官悦欣园B区",
+          "beEvaluatedObjectType": "HOUSE",
+          "keeperCode": "",
+          "keeperName": "",
+          "houseId": "3",
+          "houseSourceCode": "BJZRGZ21202009478",
+          "roomId": "3"
+        }
+      ]
+    }
+  ]
+}
