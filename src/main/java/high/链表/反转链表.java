@@ -1,4 +1,4 @@
-package high;
+package high.链表;
 
 import com.fuzq.leetcode.字节跳动.链表.分隔链表;
 

@@ -1,4 +1,4 @@
-package high;
+package high.链表;
 
 /**
  * <p></p>

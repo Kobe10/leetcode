@@ -1,4 +1,4 @@
-package high;
+package high.链表;
 
 /**
  * <p></p>
@@ -56,6 +56,6 @@ public class 环形链表 {
 
             }
         }
-
+        return null;
     }
 }
