@@ -1,7 +1,5 @@
 package 高频题;
 
-import com.google.common.collect.Lists;
-
 import java.util.*;
 
 /**
